@@ -1,0 +1,19 @@
+.vscode
+.idea
+node_modules
+.env
+.DS_store
+coverage
+coverage.json
+typechain
+typechain-types
+.eslintcache
+
+#Hardhat files
+cache
+artifacts
+
+secrets.json
+
+tmp/
+/.openzeppelin/unknown-31337.json

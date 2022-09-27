@@ -1,0 +1,19 @@
+{
+    "name": "magic-tx",
+    "version": "0.1.0",
+    "description": "Helper contract for EVMOS chain to send PHMN magic claim tx",
+    "author": {
+        "name": "KRogLA",
+        "url": "https://github.com/krogla"
+    },
+    "license": "MIT",
+    "main": "index.js",
+    "devDependencies": {
+        "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+        "hardhat": "^2.11.2"
+    },
+    "dependencies": {
+        "@tharsis/address-converter": "^0.1.8",
+        "hardhat-abi-exporter": "^2.10.0"
+    }
+}
